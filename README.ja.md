@@ -1,8 +1,8 @@
-# ブラウザ ID3 writer
+# browser-id3-writer
 
-JavaScript ライブラリで、ブラウザおよび Node.js でMP3ファイルにID3 (v2.3) タグを書き込めます。タグの読み取りはできませんので、別のライブラリを使用してください。
+JavaScript ライブラリで、ブラウザとNode.jsでMP3ファイルのID3 (v2.3) タグを書き込むことができます。タグの読み取りは行いませんので、別のライブラリを使用してください。
 
-**注意**: このライブラリは既存のID3 タグ(v2.2、v2.3、v2.4)を削除します。
+注意: このライブラリは既存のID3タグ (v2.2、v2.3、v2.4) を削除します。
 
 ## デモ
 オンラインデモ: [egoroof.github.io/browser-id3-writer/](https://egoroof.github.io/browser-id3-writer/)

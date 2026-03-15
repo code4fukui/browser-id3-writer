@@ -1,13 +1,21 @@
 # browser-id3-writer
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 JavaScript library for writing [ID3 (v2.3)](https://egoroof.github.io/browser-id3-writer/spec/) tag to MP3 files in browsers and Node.js.
 It can't read the tag so use another lib to do it.
 
 **Note**: the library removes existing ID3 tag (v2.2, v2.3 and v2.4).
 
+## Demo
 Here is an online demonstration: [egoroof.github.io/browser-id3-writer/](https://egoroof.github.io/browser-id3-writer/)
 
-Find the changelog in [CHANGELOG.md](https://github.com/egoroof/browser-id3-writer/blob/master/CHANGELOG.md)
+## Features
+- Customize tag frames
+- Add cover art
+- Add lyrics
+- Add comments
+- Add private frames
 
 ## Installation
 
