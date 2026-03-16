@@ -240,3 +240,6 @@ const id3Buffer = Buffer.from(writer.arrayBuffer);
 - TLEN (song duration in milliseconds)
 - TYER (album release year)
 - TBPM (beats
+
+## License
+MIT License — see [LICENSE](LICENSE).

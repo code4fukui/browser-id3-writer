@@ -4,9 +4,6 @@ JavaScript ライブラリで、ブラウザとNode.jsでMP3ファイルのID3 (
 
 注意: このライブラリは既存のID3タグ (v2.2、v2.3、v2.4) を削除します。
 
-## デモ
-オンラインデモ: [egoroof.github.io/browser-id3-writer/](https://egoroof.github.io/browser-id3-writer/)
-
 ## 機能
 - タグのフレームをカスタマイズ
 - ジャケット画像の追加
